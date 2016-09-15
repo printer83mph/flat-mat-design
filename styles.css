@@ -1,0 +1,34 @@
+body {margin:0; padding:0; font-family: "Roboto", sans-serif;}
+
+#topbar {
+  width: 100%;
+  text-align: center;
+  font-size: 10pt;
+  background-color: #1976D2;
+  color: rgba(255,255,255,0.87);
+  padding-top: 5pt;
+  padding-bottom: 5pt;
+}
+
+#title {
+  width: 100%;
+  text-align: center;
+  font-size: 36pt;
+  background-color: #03A9F4;
+  color: rgba(255,255,255,0.87);
+  padding-top: 10pt;
+  padding-bottom: 10pt;
+}
+
+#title #nav {
+  font-size: 18pt;
+}
+
+#content {
+  width: 50%;
+  margin:auto;
+  margin-top:10pt;
+  margin-bottom:10pt;
+  padding:10pt;
+  box-shadow: 0 0 1pt;
+}
